@@ -1,4 +1,6 @@
-"""Crea una clase "Estudiante" con propiedades para el nombre, la edad y la carrera, y métodos para obtener y establecer estas propiedades, así como un método para calcular la nota media de un conjunto de exámenes"""
+#Crea una clase "Estudiante" con propiedades para el nombre, la edad y la carrera,
+#y métodos para obtener y establecer estas propiedades,
+#así como un método para calcular la nota media de un conjunto de exámenes.
 
 class Estudiante:
     def __init__(self, nombre, edad, carrera):
