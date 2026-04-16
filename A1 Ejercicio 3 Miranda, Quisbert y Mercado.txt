@@ -1,4 +1,5 @@
-"""Crea una clase "Producto" con propiedades para el nombre, el precio y el stock disponible, y métodos para aumentar o disminuir el stock."""
+#Crea una clase "Producto" con propiedades para el nombre,
+#el precio y el stock disponible, y métodos para aumentar o disminuir el stock.
 
 
 class Producto:
