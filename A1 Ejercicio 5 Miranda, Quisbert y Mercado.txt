@@ -1,4 +1,5 @@
-"""Crea una clase "Círculo" con propiedades para el radio y el diámetro, y métodos para calcular el área y la circunferencia del círculo."""
+#Crea una clase "Círculo" con propiedades para el radio y el diámetro,
+#y métodos para calcular el área y la circunferencia del círculo.
 
 
 import math
@@ -16,5 +17,5 @@ class Circulo:
 
 if __name__ == "__main__":
     c = Circulo(4)
-    print("Área:", c.area())
-    print("Circunferencia:", c.circunferencia())
+    print("area:", c.area())
+    print("circunferencia:", c.circunferencia())
