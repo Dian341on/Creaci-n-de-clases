@@ -13,5 +13,5 @@ class Estudiante:
 
 
 if __name__ == "__main__":
-    e = Estudiante("Ana", 20, "Ingeniería")
+    e = Estudiante("Maria Jose :v", 20, "Ingeniería")
     print("Promedio:", e.promedio([7, 8, 9]))
