@@ -1,4 +1,5 @@
-"""Crea una clase "Rectángulo" con propiedades para la longitud y la anchura, y métodos para calcular el área y el perímetro del rectángulo."""
+#Crea una clase "Rectángulo" con propiedades para la longitud y la anchura,
+#y métodos para calcular el área y el perímetro del rectángulo.
 
 
 class Rectangulo:
@@ -15,5 +16,5 @@ class Rectangulo:
 
 if __name__ == "__main__":
     r = Rectangulo(5, 3)
-    print("Área:", r.area())
-    print("Perímetro:", r.perimetro())
+    print("area:", r.area())
+    print("perímetro:", r.perimetro())
