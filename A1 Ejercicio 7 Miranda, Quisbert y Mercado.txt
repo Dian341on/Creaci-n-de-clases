@@ -1,4 +1,6 @@
-"""Crea una clase "Banco" con propiedades para el nombre del banco y la tasa de interés, y métodos para calcular el interés que se obtendría en una cantidad determinada de dinero y el tiempo que se tardaría en duplicar esa cantidad."""
+#Crea una clase "Banco" con propiedades para el nombre del banco y la tasa de interés,
+#y métodos para calcular el interés que se obtendría en una cantidad determinada
+#de dinero y el tiempo que se tardaría en duplicar esa cantidad.
 
 class Banco:
     def __init__(self, nombre, interes):
